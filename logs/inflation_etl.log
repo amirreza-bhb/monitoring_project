@@ -1,0 +1,87 @@
+2026-08-07 12:08:48,016 | INFO | ========== ETL START ==========
+2026-08-07 12:09:17,482 | INFO | downloading ts_national_140503-14050421155504.xlsx
+2026-08-07 12:11:37,970 | INFO | downloaded
+2026-08-07 12:11:39,927 | INFO | Processing: monthly_cpi_main_group
+2026-08-07 12:11:41,022 | INFO | New raw records: 0
+2026-08-07 12:11:41,022 | INFO | No new raw data.
+2026-08-07 12:11:43,766 | INFO | New dbo records: 0
+2026-08-07 12:11:43,766 | INFO | No new dbo data.
+2026-08-07 12:11:43,772 | INFO | Processing: monthly_inflation_main_group
+2026-08-07 12:11:44,398 | INFO | New raw records: 0
+2026-08-07 12:11:44,398 | INFO | No new raw data.
+2026-08-07 12:11:46,688 | INFO | New dbo records: 0
+2026-08-07 12:11:46,688 | INFO | No new dbo data.
+2026-08-07 12:11:46,704 | INFO | Processing: monthly_point_inflation_main_group
+2026-08-07 12:11:47,289 | INFO | New raw records: 0
+2026-08-07 12:11:47,289 | INFO | No new raw data.
+2026-08-07 12:11:49,413 | INFO | New dbo records: 0
+2026-08-07 12:11:49,413 | INFO | No new dbo data.
+2026-08-07 12:11:49,413 | INFO | Processing: monthly_annual_inflation_main_group
+2026-08-07 12:11:49,912 | INFO | New raw records: 0
+2026-08-07 12:11:49,912 | INFO | No new raw data.
+2026-08-07 12:11:51,777 | INFO | New dbo records: 0
+2026-08-07 12:11:51,777 | INFO | No new dbo data.
+2026-08-07 12:11:51,777 | INFO | ========== ETL SUCCESS ==========
+2026-08-07 20:49:07,939 | INFO | ========== ETL START ==========
+2026-08-07 20:49:11,078 | INFO | downloading ts_national_140503-14050421155504.xlsx
+2026-08-07 20:49:15,121 | INFO | downloaded
+2026-08-07 20:49:15,710 | INFO | Processing: monthly_cpi_main_group
+2026-08-07 20:49:16,250 | INFO | New raw records: 0
+2026-08-07 20:49:16,250 | INFO | No new raw data.
+2026-08-07 20:49:17,928 | INFO | New dbo records: 7138
+2026-08-07 20:49:29,102 | INFO | Dbo inserted.
+2026-08-07 20:49:29,103 | INFO | Processing: monthly_inflation_main_group
+2026-08-07 20:49:29,251 | INFO | New raw records: 0
+2026-08-07 20:49:29,251 | INFO | No new raw data.
+2026-08-07 20:49:30,435 | INFO | New dbo records: 7138
+2026-08-07 20:49:42,611 | INFO | Dbo inserted.
+2026-08-07 20:49:42,611 | INFO | Processing: monthly_point_inflation_main_group
+2026-08-07 20:49:42,834 | INFO | New raw records: 0
+2026-08-07 20:49:42,834 | INFO | No new raw data.
+2026-08-07 20:49:44,674 | INFO | New dbo records: 6665
+2026-08-07 20:49:56,497 | INFO | Dbo inserted.
+2026-08-07 20:49:56,497 | INFO | Processing: monthly_annual_inflation_main_group
+2026-08-07 20:49:56,689 | INFO | New raw records: 0
+2026-08-07 20:49:56,689 | INFO | No new raw data.
+2026-08-07 20:49:58,434 | INFO | New dbo records: 5676
+2026-08-07 20:50:08,067 | INFO | Dbo inserted.
+2026-08-07 20:50:08,067 | INFO | ========== ETL SUCCESS ==========
+2026-08-07 21:58:48,564 | INFO | ========== ETL START ==========
+2026-08-07 21:58:52,123 | INFO | downloading ts_national_140503-14050421155504.xlsx
+2026-08-07 21:58:55,889 | INFO | downloaded
+2026-08-07 21:58:57,217 | INFO | Processing: monthly_cpi_main_group
+2026-08-07 21:58:57,539 | INFO | New raw records: 0
+2026-08-07 21:58:57,539 | INFO | No new raw data.
+2026-08-07 21:59:00,173 | INFO | New dbo records: 7138
+2026-08-07 21:59:11,901 | INFO | Dbo inserted.
+2026-08-07 21:59:11,902 | INFO | Processing: monthly_inflation_main_group
+2026-08-07 21:59:12,057 | INFO | New raw records: 0
+2026-08-07 21:59:12,057 | INFO | No new raw data.
+2026-08-07 21:59:13,283 | INFO | New dbo records: 7138
+2026-08-07 21:59:25,213 | INFO | Dbo inserted.
+2026-08-07 21:59:25,213 | INFO | Processing: monthly_point_inflation_main_group
+2026-08-07 21:59:25,499 | INFO | New raw records: 0
+2026-08-07 21:59:25,499 | INFO | No new raw data.
+2026-08-07 21:59:27,584 | INFO | New dbo records: 6665
+2026-08-07 21:59:37,884 | INFO | Dbo inserted.
+2026-08-07 21:59:37,884 | INFO | Processing: monthly_annual_inflation_main_group
+2026-08-07 21:59:38,030 | INFO | New raw records: 0
+2026-08-07 21:59:38,031 | INFO | No new raw data.
+2026-08-07 21:59:39,035 | INFO | New dbo records: 5676
+2026-08-07 21:59:46,342 | INFO | Dbo inserted.
+2026-08-07 21:59:46,342 | INFO | ========== ETL SUCCESS ==========
+2026-08-08 11:14:08,909 | INFO | ========== ETL START ==========
+2026-08-08 11:14:13,245 | ERROR | ========== ETL FAILED ==========
+Traceback (most recent call last):
+  File "D:\milli\etl\inflation_data_etl.py", line 284, in main
+    file_path = download_inflation_excel_file()
+  File "D:\milli\etl\inflation_data_etl.py", line 81, in download_inflation_excel_file
+    file_path = download_dir / file_name
+TypeError: unsupported operand type(s) for /: 'str' and 'str'
+2026-08-08 11:14:13,245 | ERROR | unsupported operand type(s) for /: 'str' and 'str'
+Traceback (most recent call last):
+  File "D:\milli\etl\inflation_data_etl.py", line 284, in main
+    file_path = download_inflation_excel_file()
+  File "D:\milli\etl\inflation_data_etl.py", line 81, in download_inflation_excel_file
+    file_path = download_dir / file_name
+TypeError: unsupported operand type(s) for /: 'str' and 'str'

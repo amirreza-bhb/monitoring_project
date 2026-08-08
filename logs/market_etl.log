@@ -1,0 +1,128 @@
+2026-08-07 04:07:43,665 | INFO | ========== ETL START ==========
+2026-08-07 04:07:43,665 | INFO | Processing: brent_oil_prices
+2026-08-07 04:08:22,813 | INFO | Total records: 9768
+2026-08-07 04:08:23,186 | INFO | No new raw data.
+2026-08-07 04:08:23,325 | INFO | No new clean data.
+2026-08-07 04:08:23,325 | INFO | Processing: gold_prices_18k
+2026-08-07 04:08:38,368 | INFO | Total records: 3473
+2026-08-07 04:08:38,412 | INFO | No new raw data.
+2026-08-07 04:08:38,502 | INFO | No new clean data.
+2026-08-07 04:08:38,502 | INFO | Processing: gold_prices_global
+2026-08-07 04:09:28,942 | INFO | Total records: 12107
+2026-08-07 04:09:28,988 | INFO | No new raw data.
+2026-08-07 04:09:29,182 | INFO | No new clean data.
+2026-08-07 04:09:29,182 | INFO | Processing: usd_free_market_rates
+2026-08-07 04:09:45,340 | INFO | Total records: 3921
+2026-08-07 04:09:45,395 | INFO | No new raw data.
+2026-08-07 04:09:45,492 | INFO | No new clean data.
+2026-08-07 04:09:45,492 | INFO | Processing: usd_official_rates
+2026-08-07 04:09:54,499 | INFO | Total records: 1613
+2026-08-07 04:09:54,515 | INFO | No new raw data.
+2026-08-07 04:09:54,576 | INFO | No new clean data.
+2026-08-07 04:09:54,576 | INFO | Processing: tehran_stock_indices
+2026-08-07 04:10:06,496 | INFO | Total records: 2291
+2026-08-07 04:10:06,693 | INFO | No new raw data.
+2026-08-07 04:10:06,773 | INFO | No new clean data.
+2026-08-07 04:10:06,773 | INFO | ========== ETL SUCCESS ==========
+2026-08-07 08:30:11,165 | INFO | ========== ETL START ==========
+2026-08-07 08:30:11,165 | INFO | Processing: brent_oil_prices
+2026-08-07 08:30:54,520 | INFO | Total records: 9768
+2026-08-07 08:30:54,944 | INFO | No new raw data.
+2026-08-07 08:30:55,166 | INFO | No new clean data.
+2026-08-07 08:30:55,166 | INFO | Processing: gold_prices_18k
+2026-08-07 08:31:09,771 | INFO | Total records: 3473
+2026-08-07 08:31:09,813 | INFO | No new raw data.
+2026-08-07 08:31:09,909 | INFO | No new clean data.
+2026-08-07 08:31:09,909 | INFO | Processing: gold_prices_global
+2026-08-07 08:31:59,684 | INFO | Total records: 12107
+2026-08-07 08:31:59,762 | INFO | No new raw data.
+2026-08-07 08:31:59,972 | INFO | No new clean data.
+2026-08-07 08:31:59,972 | INFO | Processing: usd_free_market_rates
+2026-08-07 08:32:16,371 | INFO | Total records: 3921
+2026-08-07 08:32:16,422 | INFO | No new raw data.
+2026-08-07 08:32:16,523 | INFO | No new clean data.
+2026-08-07 08:32:16,523 | INFO | Processing: usd_official_rates
+2026-08-07 08:32:23,756 | INFO | Total records: 1613
+2026-08-07 08:32:23,771 | INFO | No new raw data.
+2026-08-07 08:32:23,832 | INFO | No new clean data.
+2026-08-07 08:32:23,832 | INFO | Processing: tehran_stock_indices
+2026-08-07 08:32:36,576 | INFO | Total records: 2291
+2026-08-07 08:32:36,745 | INFO | No new raw data.
+2026-08-07 08:32:36,830 | INFO | No new clean data.
+2026-08-07 08:32:36,830 | INFO | ========== ETL SUCCESS ==========
+2026-08-07 16:29:04,297 | INFO | ========== ETL START ==========
+2026-08-07 16:29:04,298 | INFO | Processing: brent_oil_prices
+2026-08-07 16:29:57,239 | INFO | ========== ETL START ==========
+2026-08-07 16:29:57,240 | INFO | Processing: brent_oil_prices
+2026-08-07 16:30:38,793 | INFO | Total records: 9768
+2026-08-07 16:30:39,291 | INFO | No new raw data.
+2026-08-07 16:30:39,425 | INFO | No new clean data.
+2026-08-07 16:30:39,425 | INFO | Processing: gold_prices_18k
+2026-08-07 16:30:54,107 | INFO | Total records: 3473
+2026-08-07 16:30:54,137 | INFO | No new raw data.
+2026-08-07 16:30:54,213 | INFO | No new clean data.
+2026-08-07 16:30:54,213 | INFO | Processing: gold_prices_global
+2026-08-07 21:54:21,121 | INFO | ========== ETL START ==========
+2026-08-07 21:54:21,121 | INFO | Processing: brent_oil_prices
+2026-08-07 21:55:03,944 | INFO | Total records: 9768
+2026-08-07 21:55:04,225 | INFO | No new raw data.
+2026-08-07 21:55:04,345 | INFO | New records: 0
+2026-08-07 21:55:04,345 | INFO | No new clean data.
+2026-08-07 21:55:04,345 | INFO | Processing: gold_prices_18k
+2026-08-07 21:55:18,761 | INFO | Total records: 3473
+2026-08-07 21:55:18,783 | INFO | No new raw data.
+2026-08-07 21:55:18,827 | INFO | New records: 0
+2026-08-07 21:55:18,827 | INFO | No new clean data.
+2026-08-07 21:55:18,827 | INFO | Processing: gold_prices_global
+2026-08-07 21:56:13,850 | INFO | Total records: 12107
+2026-08-07 21:56:13,948 | INFO | No new raw data.
+2026-08-07 21:56:14,039 | INFO | New records: 0
+2026-08-07 21:56:14,039 | INFO | No new clean data.
+2026-08-07 21:56:14,045 | INFO | Processing: usd_free_market_rates
+2026-08-07 21:56:30,438 | INFO | Total records: 3921
+2026-08-07 21:56:30,467 | INFO | No new raw data.
+2026-08-07 21:56:30,508 | INFO | New records: 0
+2026-08-07 21:56:30,508 | INFO | No new clean data.
+2026-08-07 21:56:30,509 | INFO | Processing: usd_official_rates
+2026-08-07 21:56:37,792 | INFO | Total records: 1613
+2026-08-07 21:56:37,835 | INFO | No new raw data.
+2026-08-07 21:56:37,887 | INFO | New records: 0
+2026-08-07 21:56:37,887 | INFO | No new clean data.
+2026-08-07 21:56:37,888 | INFO | Processing: tehran_stock_indices
+2026-08-07 21:56:50,399 | INFO | Total records: 2291
+2026-08-07 21:56:50,463 | INFO | No new raw data.
+2026-08-07 21:56:50,492 | INFO | New records: 0
+2026-08-07 21:56:50,492 | INFO | No new clean data.
+2026-08-07 21:56:50,492 | INFO | ========== ETL SUCCESS ==========
+2026-08-08 11:10:39,786 | INFO | ========== ETL START ==========
+2026-08-08 11:10:39,788 | INFO | Processing: brent_oil_prices
+2026-08-08 11:11:20,572 | INFO | Total records: 9769
+2026-08-08 11:11:20,888 | INFO | Raw data inserted.
+2026-08-08 11:11:20,968 | INFO | New records: 1
+2026-08-08 11:11:20,968 | INFO | Cleaned data inserted.
+2026-08-08 11:11:20,968 | INFO | Processing: gold_prices_18k
+2026-08-08 11:11:35,269 | INFO | Total records: 3473
+2026-08-08 11:11:35,303 | INFO | No new raw data.
+2026-08-08 11:11:35,348 | INFO | New records: 0
+2026-08-08 11:11:35,348 | INFO | No new clean data.
+2026-08-08 11:11:35,348 | INFO | Processing: gold_prices_global
+2026-08-08 11:12:26,635 | INFO | Total records: 12108
+2026-08-08 11:12:26,715 | INFO | Raw data inserted.
+2026-08-08 11:12:26,778 | INFO | New records: 1
+2026-08-08 11:12:26,794 | INFO | Cleaned data inserted.
+2026-08-08 11:12:26,794 | INFO | Processing: usd_free_market_rates
+2026-08-08 11:12:43,182 | INFO | Total records: 3921
+2026-08-08 11:12:43,213 | INFO | No new raw data.
+2026-08-08 11:12:43,261 | INFO | New records: 0
+2026-08-08 11:12:43,261 | INFO | No new clean data.
+2026-08-08 11:12:43,261 | INFO | Processing: usd_official_rates
+2026-08-08 11:12:50,365 | INFO | Total records: 1613
+2026-08-08 11:12:50,396 | INFO | No new raw data.
+2026-08-08 11:12:50,413 | INFO | New records: 0
+2026-08-08 11:12:50,413 | INFO | No new clean data.
+2026-08-08 11:12:50,413 | INFO | Processing: tehran_stock_indices
+2026-08-08 11:13:03,627 | INFO | Total records: 2291
+2026-08-08 11:13:03,712 | INFO | No new raw data.
+2026-08-08 11:13:03,744 | INFO | New records: 0
+2026-08-08 11:13:03,744 | INFO | No new clean data.
+2026-08-08 11:13:03,744 | INFO | ========== ETL SUCCESS ==========
